@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[demo01]]></title>
-    <url>%2F2019%2F07%2F29%2Fdemo02%2F</url>
-    <content type="text"><![CDATA[Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found here. Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found here.Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found here.Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found here.Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found here.]]></content>
+    <title><![CDATA[分类测试文章]]></title>
+    <url>%2F2019%2F07%2F29%2Fdemo04%2F</url>
+    <content type="text"></content>
       <categories>
-        <category>html</category>
+        <category>Testing</category>
       </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[标签测试文章]]></title>
+    <url>%2F2019%2F07%2F29%2Fdemo03%2F</url>
+    <content type="text"></content>
       <tags>
-        <tag>test</tag>
+        <tag>tags</tag>
+        <tag>Another Tag</tag>
       </tags>
+  </entry>
+  <entry>
+    <title></title>
+    <url>%2F2019%2F07%2F29%2Fdemo02%2F</url>
+    <content type="text"></content>
   </entry>
   <entry>
     <title><![CDATA[demo01]]></title>
