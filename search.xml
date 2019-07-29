@@ -1,36 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[分类测试文章]]></title>
+    <title><![CDATA[Hello World]]></title>
     <url>%2F2019%2F07%2F29%2Fdemo04%2F</url>
-    <content type="text"></content>
-      <categories>
-        <category>Testing</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[标签测试文章]]></title>
-    <url>%2F2019%2F07%2F29%2Fdemo03%2F</url>
-    <content type="text"></content>
-      <tags>
-        <tag>tags</tag>
-        <tag>Another Tag</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title></title>
-    <url>%2F2019%2F07%2F29%2Fdemo02%2F</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
-    <title><![CDATA[demo01]]></title>
-    <url>%2F2019%2F07%2F29%2Fdemo01%2F</url>
-    <content type="text"><![CDATA[Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found here. Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found here.Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found here.Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found here.Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found here.]]></content>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
       <categories>
         <category>默认文件</category>
       </categories>
       <tags>
-        <tag>test</tag>
+        <tag>demo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F07%2F29%2Fdemo03%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <categories>
+        <category>默认文件</category>
+      </categories>
+      <tags>
+        <tag>demo</tag>
       </tags>
   </entry>
   <entry>
@@ -42,6 +31,30 @@
       </categories>
       <tags>
         <tag>demo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[自学编程成功概率有多少可能]]></title>
+    <url>%2F2017%2F05%2F26%2Fdemo02%2F</url>
+    <content type="text"><![CDATA[Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found here. Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found here.Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found here.Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found here.Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found here.]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>编程</tag>
+        <tag>感悟</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[自学编程成功概率有多少可能]]></title>
+    <url>%2F2017%2F05%2F26%2Fdemo01%2F</url>
+    <content type="text"><![CDATA[Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found here. Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found here.Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found here.Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found here.Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found here.]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>编程</tag>
+        <tag>感悟</tag>
       </tags>
   </entry>
 </search>
